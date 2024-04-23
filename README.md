@@ -14,5 +14,4 @@ Learning outcomes:
 2.	Proficiency in implementing image classification models using TensorFlow Keras API.
 3.	Ability to fine-tune pre-trained models to adapt them to new tasks or datasets.
 
-* The Dataset is not included in the repository in considerations of storage space.
 This project is prepared by Chen Yijie under the supervision of Zhou Changxin
